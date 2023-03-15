@@ -1,3 +1,4 @@
+### Penelope Chen
 - 👋 Hi, I’m @PenelopeChen, a software engineer based in Sydney.
 - 👀 I’m interested in available junior SWE roles.
 - 🌱 I’m currently learning languages including Ruby, Vue.js & React.js. I am also learning how to use databases like Rails & Supabase using PostgreSQL. I handle all my projects using Git for version control. 
